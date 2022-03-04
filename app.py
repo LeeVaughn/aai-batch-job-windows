@@ -8,7 +8,7 @@ import requests
 # import json
 
 base_endpoint = "https://api.assemblyai.com/v2"
-headers = {'authorization': "b62141f4d92b43f8a0f018ae6c8e018c"}
+headers = {'authorization': "your API key here"}
 
 
 # Start the transcription process

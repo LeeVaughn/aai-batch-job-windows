@@ -1,15 +1,12 @@
-# import csv
 import json
 from concurrent.futures import ThreadPoolExecutor
 
 from app import main
 
-# header = False
 lines = []
 
 
 def run_file(audio_url, file_name):
-    # global header
     data = main(audio_url)
     text_filename = file_name + ".txt"
     json_filename = file_name + ".json"

@@ -21,20 +21,20 @@ def start_transcript(audio_url):
         # "format_text": False,
         # "word_boost": word_boost,
         # "dual_channel": True,
-        "entity_detection": True,
-        "auto_highlights": True,
-        "iab_categories": True,
-        "content_safety": True,
-        "sentiment_analysis": True,
-        "auto_chapters": True,
-        "speaker_labels": True,
+        # "entity_detection": True,
+        # "auto_highlights": True,
+        # "iab_categories": True,
+        # "content_safety": True,
+        # "sentiment_analysis": True,
+        # "auto_chapters": True,
+        # "speaker_labels": True,
         # "disfluencies": True,
         # "filter_profanity": True,
-        # "redact_pii": True,
-        # "redact_pii_sub": "entity_name",
-        # "redact_pii_policies": [
-        #     "medical_process", "medical_condition", "blood_type", "drug", "injury", "number_sequence", "email_address", "date_of_birth", "phone_number", "us_social_security_number", "credit_card_number", "credit_card_expiration", "credit_card_cvv", "date", "nationality", "event", "language", "location", "money_amount", "person_name", "person_age", "organization", "political_affiliation", "occupation", "religion"
-        # ]
+        "redact_pii": True,
+        "redact_pii_sub": "entity_name",
+        "redact_pii_policies": [
+            "medical_process", "medical_condition", "blood_type", "drug", "injury", "number_sequence", "email_address", "date_of_birth", "phone_number", "us_social_security_number", "credit_card_number", "credit_card_expiration", "credit_card_cvv", "date", "nationality", "event", "language", "location", "money_amount", "person_name", "person_age", "organization", "political_affiliation", "occupation", "religion", "drivers_license", "banking_information"
+        ]
     }
 
     r = requests.post(base_endpoint + "/transcript", headers=headers, json=post_json)

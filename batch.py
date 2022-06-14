@@ -11,14 +11,22 @@ def run_file(audio_url, file_name):
     text_filename = file_name + ".txt"
     json_filename = file_name + ".json"
     
-    text_file = open("./text/" + text_filename, 'x')
-    json_file = open("./json/" + json_filename, 'x')
+    text_file = open("./text/" + text_filename, 'x', encoding='utf8')
+    json_file = open("./json/" + json_filename, 'x', encoding='utf8')
 
     text_file.write(data['text'])
     text_file.close()
-    json_file.write(json.dumps(data, indent=2))
+    json_file.write(json.dumps(data, ensure_ascii=False, indent=2))
     json_file.close()
 
+    for word in data['words']:
+        if word['end'] <= word['start']:
+            print(file_name)
+            ts_filename = file_name + ".json"
+            ts_file = open("./exceptions/" + ts_filename, 'x')
+
+            ts_file.write(json.dumps(data, indent=2))
+            ts_file.close()
 
     if (len(data.get('utterances'))) >= 1:
         diarization_filename = file_name + ".json"
@@ -26,6 +34,12 @@ def run_file(audio_url, file_name):
 
         diarization_file.write(json.dumps(data['utterances'], indent=2))
         diarization_file.close()
+
+
+    # for word in data.get('words'):
+    #     print("test")
+    #     print(word['start'])
+    #     print(word['end'])
 
 
 f = open("urls.txt", "r")

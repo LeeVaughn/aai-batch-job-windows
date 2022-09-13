@@ -36,12 +36,6 @@ def run_file(audio_url, file_name):
         diarization_file.close()
 
 
-    # for word in data.get('words'):
-    #     print("test")
-    #     print(word['start'])
-    #     print(word['end'])
-
-
 f = open("urls.txt", "r")
 
 # loop over each line in text file and append them to dictionary

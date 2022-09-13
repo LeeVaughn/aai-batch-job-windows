@@ -13,13 +13,15 @@ headers = {'authorization': "your API key here"}
 
 # Start the transcription process
 def start_transcript(audio_url):
-    # word_boost = ['schwach']
     post_json = {
         "audio_url": audio_url,
-        # "language_code": "de",
+        # "language_code": "hi",
+        # "language_detection": True,
         # "punctuate": False,
         # "format_text": False,
-        # "word_boost": word_boost,
+        # "word_boost": ["simonkucher"],
+        # "boost_param": "low",
+        # "custom_spelling": [{"from": ["ariana"], "to": "Arianna"}], 
         # "dual_channel": True,
         # "entity_detection": True,
         # "auto_highlights": True,
@@ -30,11 +32,11 @@ def start_transcript(audio_url):
         # "speaker_labels": True,
         # "disfluencies": True,
         # "filter_profanity": True,
-        "redact_pii": True,
-        "redact_pii_sub": "entity_name",
-        "redact_pii_policies": [
-            "medical_process", "medical_condition", "blood_type", "drug", "injury", "number_sequence", "email_address", "date_of_birth", "phone_number", "us_social_security_number", "credit_card_number", "credit_card_expiration", "credit_card_cvv", "date", "nationality", "event", "language", "location", "money_amount", "person_name", "person_age", "organization", "political_affiliation", "occupation", "religion", "drivers_license", "banking_information"
-        ]
+        # "redact_pii": True,
+        # "redact_pii_sub": "entity_name",
+        # "redact_pii_policies": [
+        #     "medical_process", "medical_condition", "blood_type", "drug", "injury", "number_sequence", "email_address", "date_of_birth", "phone_number", "us_social_security_number", "credit_card_number", "credit_card_expiration", "credit_card_cvv", "date", "nationality", "event", "language", "location", "money_amount", "person_name", "person_age", "organization", "political_affiliation", "occupation", "religion", "drivers_license", "banking_information"
+        # ]
     }
 
     r = requests.post(base_endpoint + "/transcript", headers=headers, json=post_json)
@@ -53,12 +55,12 @@ def get_transcript(id):
 
 # Wait for the status of the transcription to be completed
 def wait_for_result(id):
-    print("polling for result...")
+    # print("polling for result...")
     response = get_transcript(id)
     while response['status'] not in ['completed', 'error']:
         time.sleep(3)
         response = get_transcript(response['id'])
-        print(response['status'])
+        # print(response['status'])
     return response
 
 
@@ -67,8 +69,9 @@ def main(audio_url):
     print("transcript id: %s" % response['id'])
     response = wait_for_result(response['id'])
 
-    # if response['status'] == "error":
-    #     raise Exception(response['error'])
+    if response['status'] == 'error':
+        print(audio_url, response['error'])
+        # raise Exception(response['error'])
 
     return response
  

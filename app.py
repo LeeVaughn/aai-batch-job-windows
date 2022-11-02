@@ -8,19 +8,19 @@ import requests
 # import json
 
 base_endpoint = "https://api.assemblyai.com/v2"
-headers = {'authorization': "your API key here"}
+headers = {'authorization': "your api key here"}
 
 
 # Start the transcription process
 def start_transcript(audio_url):
     post_json = {
         "audio_url": audio_url,
-        # "language_code": "hi",
+        # "language_code": "it",
         # "language_detection": True,
         # "punctuate": False,
         # "format_text": False,
-        # "word_boost": ["simonkucher"],
-        # "boost_param": "low",
+        "word_boost": ["covid"],
+        "boost_param": "high",
         # "custom_spelling": [{"from": ["ariana"], "to": "Arianna"}], 
         # "dual_channel": True,
         # "entity_detection": True,
@@ -36,7 +36,9 @@ def start_transcript(audio_url):
         # "redact_pii_sub": "entity_name",
         # "redact_pii_policies": [
         #     "medical_process", "medical_condition", "blood_type", "drug", "injury", "number_sequence", "email_address", "date_of_birth", "phone_number", "us_social_security_number", "credit_card_number", "credit_card_expiration", "credit_card_cvv", "date", "nationality", "event", "language", "location", "money_amount", "person_name", "person_age", "organization", "political_affiliation", "occupation", "religion", "drivers_license", "banking_information"
-        # ]
+        # ],
+        "summarization": True,
+        "summary_type": "bullets"
     }
 
     r = requests.post(base_endpoint + "/transcript", headers=headers, json=post_json)

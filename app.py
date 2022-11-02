@@ -1,11 +1,7 @@
-# import re
-from ipaddress import ip_address
 import sys
 import time
 # import string
 import requests
-
-# import json
 
 base_endpoint = "https://api.assemblyai.com/v2"
 headers = {'authorization': "your api key here"}

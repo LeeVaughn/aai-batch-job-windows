@@ -1,6 +1,5 @@
 import sys
 import time
-# import string
 import requests
 
 base_endpoint = "https://api.assemblyai.com/v2"

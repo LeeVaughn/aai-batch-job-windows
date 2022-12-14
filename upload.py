@@ -32,6 +32,11 @@ def upload_file(filename):
     f.close()
 
 
+# clears any previous info from the urls.txt file
+clear_file = open('urls.txt', 'w')
+clear_file.close()
+
+
 with ThreadPoolExecutor(10) as executor:
     for x in range(0, len(uploaded_files)):
         executor.submit(upload_file, uploaded_files[x])

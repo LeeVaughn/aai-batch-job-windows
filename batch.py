@@ -1,4 +1,5 @@
 import json
+import os
 from concurrent.futures import ThreadPoolExecutor
 
 from app import main
@@ -28,13 +29,30 @@ def run_file(audio_url, file_name):
             ts_file.write(json.dumps(data, indent=2))
             ts_file.close()
 
-    if (len(data.get('utterances'))) >= 1:
-        diarization_filename = file_name + ".json"
-        diarization_file = open("./diarization/" + diarization_filename, 'x')
+    # # creates a text file of turn by turn utterances
+    # if (len(data.get('utterances'))) >= 1:
+    #     utterances = data['utterances']
+    #     text = ''
+    #     file_name = file_name + ".txt"
+    #     # print(utterances)
 
-        diarization_file.write(json.dumps(data['utterances'], indent=2))
-        diarization_file.close()
+    #     for utterance in utterances:
+    #         text += f"Speaker {utterance['speaker']}: {utterance['text']}\n\n"
+    #         # print(utterance['speaker'])
+    #     diarization_filename = file_name + ".txt"
+    #     diarization_file = open("./diarization/" + diarization_filename, 'x')
 
+    #     diarization_file.write(text)
+    #     diarization_file.close()
+
+
+# uploads files to get back an upload URL
+print('Uploading files...')
+os.system('upload.py')
+
+# deletes any files in the json, text, or diarization directories
+print('Emptying folders...')
+os.system('empty_folders.py')
 
 f = open("urls.txt", "r")
 

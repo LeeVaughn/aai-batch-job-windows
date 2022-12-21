@@ -1,9 +1,10 @@
+from config import auth_key, endpoint
 import os
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
 
-file_dir = "./uploads"
+file_dir = './uploads'
 uploaded_files = os.listdir(file_dir)
 
 
@@ -11,7 +12,7 @@ def upload_file(filename):
     print(f"{filename} uploading...")
 
     def read_file(filename, chunk_size=5242880):
-        with open("./uploads/" + filename, 'rb') as _file:
+        with open('./uploads/' + filename, 'rb') as _file:
             while True:
                 data = _file.read(chunk_size)
                 if not data:
@@ -19,16 +20,16 @@ def upload_file(filename):
                 yield data
     
 
-    headers = {'authorization': "your api key here"}
-    response = requests.post('https://api.assemblyai.com/v2/upload', headers=headers, data=read_file(filename))
+    headers = {'authorization': auth_key}
+    response = requests.post(endpoint + '/upload', headers=headers, data=read_file(filename))
 
     response = response.json()
 
     print(f"{filename} complete: {response['upload_url']}")
 
     # write file names and URLs to a text file
-    f = open("urls.txt", "a")
-    f.write(filename + "," + response["upload_url"] + "\n")
+    f = open('urls.txt', 'a')
+    f.write(filename + ',' + response['upload_url'] + '\n')
     f.close()
 
 

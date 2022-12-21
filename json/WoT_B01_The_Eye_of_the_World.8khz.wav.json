@@ -1,0 +1,6271 @@
+{
+  "id": "ri4qp7jhh0-e5ee-44aa-8ff3-0dd332b9be68",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/7f6610a5-40b7-4be1-9c16-3a3d95fda90b",
+  "text": "Chapter One an Empty Road the Wheel of Time turns, and ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the age that gave it birth comes again. In one age called the Third Age, by some, an age yet to come, an age long past, a wind rose in the mountains of mist. The wind was not the beginning. There are neither beginnings nor endings to the turning of the Wheel of Time, but it was a beginning. Borne below the ever cloud capped peaks that gave the mountains their name, the wind blew east, out across the Sand Hills, once the shore of a great ocean before the breaking of the world. Down it flailed into the two rivers, into the tangled forest called the Westwood, and beat it. Two men walking with a cart and horse down the rock strewn track called the Quarry Road. For all that, spring should have come a good month, since the wind carried an icy chill, as if it would rather bear snow. Gusts plastered Randall Thor's cloak to his back, whipped the earth colored wool around his legs, then streamed it out behind him. He wished his coat were heavier, or that he had worn an extra shirt half the time. When he tried to tug the cloak back around him, it caught on the quiver, swinging at his hip. Trying to hold the cloak one handed did not do much good anyway. He had his bow. In the other, an arrow knocked and ready to draw as a particularly strong blast tugged the cloak out of his hand. He glanced at his father over the back of a shaggy brown mare. He felt a little foolish about wanting to reassure himself that Tam was still there, but it was that kind of day. The wind howled when it rose, but aside from that, quiet lay heavy on the land. The soft creak of the axle sounded loud by comparison. No birds sang in the forest. No squirrels chittered from a branch. Not that he expected them, really, not this spring. Only trees that kept leaf or needle through the winter at any green about them. Snarls of last year's bramble spread brown webs over stone outcrops under the trees. Nettles numbered most among the few weeds. The rest were the sorts with sharp burrs or thorns or stinkweed, which left a rank smell on the unwary booth that crushed it. Scattered white patches of snow still dotted the ground, where tight clumps of trees kept deep shade. Where sunlight did reach, it held neither strength nor warmth. The pale sun sat above the trees to the east, but its light was crisply, dark, as if mixed with shadow. It was an awkward morning, made for unpleasant thoughts. Without thinking, he touched the knock of the arrow. It was ready to draw to his cheek in one smooth movement, the way Tam had taught him. Winter had been bad enough on the farms, worse than even the oldest folk remembered, but it must have been harsher still in the mountains if the number of wolves driven down into the two rivers was any guide. Wolves raided the sheep pens and chewed their way into barns to get the cattle and horses. Bears had been after the sheep, too, where a bear had not been seen in years. It was no longer safe to be out after dark. Men were the prey as often as sheep, and the sun did not always have to be down. Tam was taking steady strides on the other side of Bella, using his spears, a walking staff, ignoring the wind that made his brown cloak flap like a banner. Now and again he touched the mares flank lightly to remind her to keep moving. With his thick chest and broad face, he was a pillar of reality in that morning, like a stone in the middle of a drifting dream. His son roughened cheeks might be lined, and his hair have only a sprinkling of black among the gray, but there was a solidness to him, as though a flood could wash around him without uprooting his feet. He stumped down the road now impassively. Wolves and bears were all very well. His manner said things that any man who kept sheep must be aware of, but they had best not try to stop Tam. Although getting to Eman's Field with a guilty start, rand returned to watching his side of the road, Tam's matter of factness reminding him of his task. He was a head taller than his father, taller than anyone else in the district, and had little of Tam in him physically, except perhaps for a breath of shoulder. Gray eyes, and the reddish tinge to his hair came from his mother, so Tam said. She had been an outlander, and Rand remembered little of her aside from a smiling face, though he did put flowers on her grave every year at Beltine in the spring and at Sunday in the summer. Two small casks of Tam's apple brandy rested in the lurching cart, and eight larger barrels of apple cider, only slightly hard after winter, is curing.",
+  "words": [
+    {
+      "text": "Chapter",
+      "start": 250,
+      "end": 634,
+      "confidence": 0.67264,
+      "speaker": null
+    },
+    {
+      "text": "One",
+      "start": 682,
+      "end": 1280,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 1730,
+      "end": 2046,
+      "confidence": 0.9946,
+      "speaker": null
+    },
+    {
+      "text": "Empty",
+      "start": 2068,
+      "end": 2394,
+      "confidence": 0.5185,
+      "speaker": null
+    },
+    {
+      "text": "Road",
+      "start": 2442,
+      "end": 3040,
+      "confidence": 0.99237,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 5250,
+      "end": 5566,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Wheel",
+      "start": 5588,
+      "end": 5786,
+      "confidence": 0.88744,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 5818,
+      "end": 6014,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Time",
+      "start": 6052,
+      "end": 6302,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "turns,",
+      "start": 6356,
+      "end": 6874,
+      "confidence": 0.99554,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 6922,
+      "end": 7134,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "ages",
+      "start": 7172,
+      "end": 7546,
+      "confidence": 0.98504,
+      "speaker": null
+    },
+    {
+      "text": "come",
+      "start": 7578,
+      "end": 7726,
+      "confidence": 0.9934,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 7748,
+      "end": 7934,
+      "confidence": 0.53,
+      "speaker": null
+    },
+    {
+      "text": "pass,",
+      "start": 7972,
+      "end": 8318,
+      "confidence": 0.99531,
+      "speaker": null
+    },
+    {
+      "text": "leaving",
+      "start": 8404,
+      "end": 8794,
+      "confidence": 0.92088,
+      "speaker": null
+    },
+    {
+      "text": "memories",
+      "start": 8842,
+      "end": 9242,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 9306,
+      "end": 9486,
+      "confidence": 0.99815,
+      "speaker": null
+    },
+    {
+      "text": "become",
+      "start": 9508,
+      "end": 9742,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "legend.",
+      "start": 9796,
+      "end": 10510,
+      "confidence": 0.57323,
+      "speaker": null
+    },
+    {
+      "text": "Legend",
+      "start": 10930,
+      "end": 11466,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "fades",
+      "start": 11498,
+      "end": 11818,
+      "confidence": 0.97233,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 11834,
+      "end": 11966,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "myth,",
+      "start": 11988,
+      "end": 12266,
+      "confidence": 0.9622,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 12298,
+      "end": 12446,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "even",
+      "start": 12468,
+      "end": 12654,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "myth",
+      "start": 12692,
+      "end": 12906,
+      "confidence": 0.98691,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 12938,
+      "end": 13086,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 13108,
+      "end": 13294,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "forgotten",
+      "start": 13332,
+      "end": 13834,
+      "confidence": 0.74156,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 13882,
+      "end": 14046,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 14068,
+      "end": 14158,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "age",
+      "start": 14164,
+      "end": 14382,
+      "confidence": 0.81662,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 14436,
+      "end": 14606,
+      "confidence": 0.99958,
+      "speaker": null
+    },
+    {
+      "text": "gave",
+      "start": 14628,
+      "end": 14814,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 14852,
+      "end": 15006,
+      "confidence": 0.98765,
+      "speaker": null
+    },
+    {
+      "text": "birth",
+      "start": 15028,
+      "end": 15306,
+      "confidence": 0.98324,
+      "speaker": null
+    },
+    {
+      "text": "comes",
+      "start": 15338,
+      "end": 15582,
+      "confidence": 0.99942,
+      "speaker": null
+    },
+    {
+      "text": "again.",
+      "start": 15636,
+      "end": 16240,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "In",
+      "start": 17010,
+      "end": 17326,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 17348,
+      "end": 17582,
+      "confidence": 0.83,
+      "speaker": null
+    },
+    {
+      "text": "age",
+      "start": 17636,
+      "end": 17950,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "called",
+      "start": 18020,
+      "end": 18254,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 18292,
+      "end": 18446,
+      "confidence": 0.88,
+      "speaker": null
+    },
+    {
+      "text": "Third",
+      "start": 18468,
+      "end": 18654,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Age,",
+      "start": 18692,
+      "end": 18942,
+      "confidence": 0.59446,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 18996,
+      "end": 19214,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "some,",
+      "start": 19252,
+      "end": 19790,
+      "confidence": 0.98673,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 19940,
+      "end": 20206,
+      "confidence": 0.9934,
+      "speaker": null
+    },
+    {
+      "text": "age",
+      "start": 20228,
+      "end": 20462,
+      "confidence": 0.97145,
+      "speaker": null
+    },
+    {
+      "text": "yet",
+      "start": 20516,
+      "end": 20734,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 20772,
+      "end": 20926,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "come,",
+      "start": 20948,
+      "end": 21374,
+      "confidence": 0.9995,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 21492,
+      "end": 21774,
+      "confidence": 0.86703,
+      "speaker": null
+    },
+    {
+      "text": "age",
+      "start": 21812,
+      "end": 22062,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 22116,
+      "end": 22430,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "past,",
+      "start": 22500,
+      "end": 23120,
+      "confidence": 0.86,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 23650,
+      "end": 23966,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 23988,
+      "end": 24270,
+      "confidence": 0.99836,
+      "speaker": null
+    },
+    {
+      "text": "rose",
+      "start": 24340,
+      "end": 24666,
+      "confidence": 0.9775,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 24698,
+      "end": 24798,
+      "confidence": 0.98994,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 24804,
+      "end": 24998,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "mountains",
+      "start": 25044,
+      "end": 25346,
+      "confidence": 0.99489,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 25378,
+      "end": 25526,
+      "confidence": 0.57,
+      "speaker": null
+    },
+    {
+      "text": "mist.",
+      "start": 25548,
+      "end": 26150,
+      "confidence": 0.84372,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 27210,
+      "end": 27526,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 27548,
+      "end": 27830,
+      "confidence": 0.93732,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 27900,
+      "end": 28086,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 28108,
+      "end": 28294,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 28332,
+      "end": 28438,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "beginning.",
+      "start": 28444,
+      "end": 29270,
+      "confidence": 0.80349,
+      "speaker": null
+    },
+    {
+      "text": "There",
+      "start": 29690,
+      "end": 30054,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 30092,
+      "end": 30246,
+      "confidence": 0.99942,
+      "speaker": null
+    },
+    {
+      "text": "neither",
+      "start": 30268,
+      "end": 30514,
+      "confidence": 0.99963,
+      "speaker": null
+    },
+    {
+      "text": "beginnings",
+      "start": 30562,
+      "end": 31106,
+      "confidence": 0.93891,
+      "speaker": null
+    },
+    {
+      "text": "nor",
+      "start": 31138,
+      "end": 31382,
+      "confidence": 0.63186,
+      "speaker": null
+    },
+    {
+      "text": "endings",
+      "start": 31436,
+      "end": 31842,
+      "confidence": 0.99553,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 31906,
+      "end": 32038,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 32044,
+      "end": 32166,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "turning",
+      "start": 32188,
+      "end": 32466,
+      "confidence": 0.99953,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 32498,
+      "end": 32598,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 32604,
+      "end": 32678,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Wheel",
+      "start": 32684,
+      "end": 32866,
+      "confidence": 0.99564,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 32898,
+      "end": 33046,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Time,",
+      "start": 33068,
+      "end": 33640,
+      "confidence": 0.9996,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 34250,
+      "end": 34614,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 34652,
+      "end": 34758,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 34764,
+      "end": 34982,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 35036,
+      "end": 35254,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "beginning.",
+      "start": 35292,
+      "end": 36150,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "Borne",
+      "start": 37210,
+      "end": 37666,
+      "confidence": 0.77561,
+      "speaker": null
+    },
+    {
+      "text": "below",
+      "start": 37698,
+      "end": 37942,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 37996,
+      "end": 38166,
+      "confidence": 0.9,
+      "speaker": null
+    },
+    {
+      "text": "ever",
+      "start": 38188,
+      "end": 38374,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "cloud",
+      "start": 38412,
+      "end": 38662,
+      "confidence": 0.86038,
+      "speaker": null
+    },
+    {
+      "text": "capped",
+      "start": 38716,
+      "end": 39026,
+      "confidence": 0.93999,
+      "speaker": null
+    },
+    {
+      "text": "peaks",
+      "start": 39058,
+      "end": 39426,
+      "confidence": 0.83333,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 39458,
+      "end": 39606,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "gave",
+      "start": 39628,
+      "end": 39814,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 39852,
+      "end": 39958,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "mountains",
+      "start": 39964,
+      "end": 40286,
+      "confidence": 0.99552,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 40338,
+      "end": 40506,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "name,",
+      "start": 40528,
+      "end": 41146,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 41328,
+      "end": 41626,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 41648,
+      "end": 41882,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "blew",
+      "start": 41936,
+      "end": 42214,
+      "confidence": 0.8783,
+      "speaker": null
+    },
+    {
+      "text": "east,",
+      "start": 42262,
+      "end": 42662,
+      "confidence": 0.86924,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 42726,
+      "end": 42954,
+      "confidence": 0.59781,
+      "speaker": null
+    },
+    {
+      "text": "across",
+      "start": 42992,
+      "end": 43290,
+      "confidence": 0.99969,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 43360,
+      "end": 43546,
+      "confidence": 0.95,
+      "speaker": null
+    },
+    {
+      "text": "Sand",
+      "start": 43568,
+      "end": 43894,
+      "confidence": 0.99955,
+      "speaker": null
+    },
+    {
+      "text": "Hills,",
+      "start": 43942,
+      "end": 44422,
+      "confidence": 0.97241,
+      "speaker": null
+    },
+    {
+      "text": "once",
+      "start": 44486,
+      "end": 44714,
+      "confidence": 0.99717,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 44752,
+      "end": 44906,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "shore",
+      "start": 44928,
+      "end": 45158,
+      "confidence": 0.99977,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 45174,
+      "end": 45306,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 45328,
+      "end": 45418,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "great",
+      "start": 45424,
+      "end": 45594,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "ocean",
+      "start": 45632,
+      "end": 45974,
+      "confidence": 0.8082,
+      "speaker": null
+    },
+    {
+      "text": "before",
+      "start": 46022,
+      "end": 46282,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 46336,
+      "end": 46458,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "breaking",
+      "start": 46464,
+      "end": 46726,
+      "confidence": 0.73056,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 46758,
+      "end": 46858,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 46864,
+      "end": 46986,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "world.",
+      "start": 47008,
+      "end": 47580,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "Down",
+      "start": 48270,
+      "end": 48682,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 48736,
+      "end": 48954,
+      "confidence": 0.99809,
+      "speaker": null
+    },
+    {
+      "text": "flailed",
+      "start": 48992,
+      "end": 49398,
+      "confidence": 0.98988,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 49414,
+      "end": 49594,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 49632,
+      "end": 49738,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "two",
+      "start": 49744,
+      "end": 49914,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "rivers,",
+      "start": 49952,
+      "end": 50550,
+      "confidence": 0.91732,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 50630,
+      "end": 50874,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 50912,
+      "end": 51066,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "tangled",
+      "start": 51088,
+      "end": 51494,
+      "confidence": 0.72116,
+      "speaker": null
+    },
+    {
+      "text": "forest",
+      "start": 51542,
+      "end": 51942,
+      "confidence": 0.99602,
+      "speaker": null
+    },
+    {
+      "text": "called",
+      "start": 52006,
+      "end": 52282,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 52336,
+      "end": 52458,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Westwood,",
+      "start": 52464,
+      "end": 53382,
+      "confidence": 0.8904,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 53526,
+      "end": 53882,
+      "confidence": 0.59,
+      "speaker": null
+    },
+    {
+      "text": "beat",
+      "start": 53936,
+      "end": 54166,
+      "confidence": 0.98895,
+      "speaker": null
+    },
+    {
+      "text": "it.",
+      "start": 54198,
+      "end": 54358,
+      "confidence": 0.49152,
+      "speaker": null
+    },
+    {
+      "text": "Two",
+      "start": 54384,
+      "end": 54574,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "men",
+      "start": 54612,
+      "end": 54862,
+      "confidence": 0.99967,
+      "speaker": null
+    },
+    {
+      "text": "walking",
+      "start": 54916,
+      "end": 55306,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 55338,
+      "end": 55486,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 55508,
+      "end": 55598,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "cart",
+      "start": 55604,
+      "end": 55914,
+      "confidence": 0.67678,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 55962,
+      "end": 56126,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "horse",
+      "start": 56148,
+      "end": 56570,
+      "confidence": 0.6071,
+      "speaker": null
+    },
+    {
+      "text": "down",
+      "start": 56650,
+      "end": 56846,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 56868,
+      "end": 57006,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "rock",
+      "start": 57028,
+      "end": 57226,
+      "confidence": 0.99158,
+      "speaker": null
+    },
+    {
+      "text": "strewn",
+      "start": 57258,
+      "end": 57706,
+      "confidence": 0.12047,
+      "speaker": null
+    },
+    {
+      "text": "track",
+      "start": 57738,
+      "end": 58270,
+      "confidence": 0.99714,
+      "speaker": null
+    },
+    {
+      "text": "called",
+      "start": 58420,
+      "end": 58782,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 58836,
+      "end": 59006,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Quarry",
+      "start": 59028,
+      "end": 59386,
+      "confidence": 0.96807,
+      "speaker": null
+    },
+    {
+      "text": "Road.",
+      "start": 59418,
+      "end": 60000,
+      "confidence": 0.99764,
+      "speaker": null
+    },
+    {
+      "text": "For",
+      "start": 60370,
+      "end": 60686,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 60708,
+      "end": 60894,
+      "confidence": 0.99633,
+      "speaker": null
+    },
+    {
+      "text": "that,",
+      "start": 60932,
+      "end": 61086,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "spring",
+      "start": 61108,
+      "end": 61386,
+      "confidence": 0.99151,
+      "speaker": null
+    },
+    {
+      "text": "should",
+      "start": 61418,
+      "end": 61566,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 61588,
+      "end": 61726,
+      "confidence": 0.99924,
+      "speaker": null
+    },
+    {
+      "text": "come",
+      "start": 61748,
+      "end": 61886,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 61908,
+      "end": 61998,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "good",
+      "start": 62004,
+      "end": 62174,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "month,",
+      "start": 62212,
+      "end": 62462,
+      "confidence": 0.99897,
+      "speaker": null
+    },
+    {
+      "text": "since",
+      "start": 62516,
+      "end": 63214,
+      "confidence": 0.99897,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 63412,
+      "end": 63726,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 63748,
+      "end": 63982,
+      "confidence": 0.9998,
+      "speaker": null
+    },
+    {
+      "text": "carried",
+      "start": 64036,
+      "end": 64346,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 64378,
+      "end": 64526,
+      "confidence": 0.8429,
+      "speaker": null
+    },
+    {
+      "text": "icy",
+      "start": 64548,
+      "end": 64854,
+      "confidence": 0.60534,
+      "speaker": null
+    },
+    {
+      "text": "chill,",
+      "start": 64922,
+      "end": 65246,
+      "confidence": 0.99852,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 65278,
+      "end": 65426,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 65448,
+      "end": 65538,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 65544,
+      "end": 65618,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 65624,
+      "end": 65746,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "rather",
+      "start": 65768,
+      "end": 66002,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "bear",
+      "start": 66056,
+      "end": 66334,
+      "confidence": 0.94832,
+      "speaker": null
+    },
+    {
+      "text": "snow.",
+      "start": 66382,
+      "end": 67090,
+      "confidence": 0.99582,
+      "speaker": null
+    },
+    {
+      "text": "Gusts",
+      "start": 67590,
+      "end": 68334,
+      "confidence": 0.35415,
+      "speaker": null
+    },
+    {
+      "text": "plastered",
+      "start": 68382,
+      "end": 68846,
+      "confidence": 0.75191,
+      "speaker": null
+    },
+    {
+      "text": "Randall",
+      "start": 68878,
+      "end": 69246,
+      "confidence": 0.78579,
+      "speaker": null
+    },
+    {
+      "text": "Thor's",
+      "start": 69278,
+      "end": 69678,
+      "confidence": 0.97818,
+      "speaker": null
+    },
+    {
+      "text": "cloak",
+      "start": 69694,
+      "end": 69966,
+      "confidence": 0.99248,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 69998,
+      "end": 70146,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 70168,
+      "end": 70306,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "back,",
+      "start": 70328,
+      "end": 70802,
+      "confidence": 0.70547,
+      "speaker": null
+    },
+    {
+      "text": "whipped",
+      "start": 70936,
+      "end": 71326,
+      "confidence": 0.60152,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 71358,
+      "end": 71458,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "earth",
+      "start": 71464,
+      "end": 71678,
+      "confidence": 0.99417,
+      "speaker": null
+    },
+    {
+      "text": "colored",
+      "start": 71694,
+      "end": 72046,
+      "confidence": 0.67037,
+      "speaker": null
+    },
+    {
+      "text": "wool",
+      "start": 72078,
+      "end": 72286,
+      "confidence": 0.99953,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 72318,
+      "end": 72514,
+      "confidence": 0.99869,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 72552,
+      "end": 72754,
+      "confidence": 0.98975,
+      "speaker": null
+    },
+    {
+      "text": "legs,",
+      "start": 72792,
+      "end": 73406,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 73518,
+      "end": 73842,
+      "confidence": 0.68416,
+      "speaker": null
+    },
+    {
+      "text": "streamed",
+      "start": 73896,
+      "end": 74206,
+      "confidence": 0.75042,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 74238,
+      "end": 74386,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 74408,
+      "end": 74546,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "behind",
+      "start": 74568,
+      "end": 74850,
+      "confidence": 0.98416,
+      "speaker": null
+    },
+    {
+      "text": "him.",
+      "start": 74920,
+      "end": 75540,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 75910,
+      "end": 76226,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wished",
+      "start": 76248,
+      "end": 76526,
+      "confidence": 0.99689,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 76558,
+      "end": 76706,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "coat",
+      "start": 76728,
+      "end": 76958,
+      "confidence": 0.99899,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 76974,
+      "end": 77106,
+      "confidence": 0.9993,
+      "speaker": null
+    },
+    {
+      "text": "heavier,",
+      "start": 77128,
+      "end": 77646,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 77758,
+      "end": 78034,
+      "confidence": 0.68958,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 78072,
+      "end": 78178,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 78184,
+      "end": 78306,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 78328,
+      "end": 78418,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "worn",
+      "start": 78424,
+      "end": 78606,
+      "confidence": 0.98341,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 78638,
+      "end": 78786,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "extra",
+      "start": 78808,
+      "end": 79042,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "shirt",
+      "start": 79096,
+      "end": 79886,
+      "confidence": 0.97144,
+      "speaker": null
+    },
+    {
+      "text": "half",
+      "start": 80078,
+      "end": 80386,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 80408,
+      "end": 80546,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "time.",
+      "start": 80568,
+      "end": 80718,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "When",
+      "start": 80744,
+      "end": 80886,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 80908,
+      "end": 80998,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "tried",
+      "start": 81004,
+      "end": 81174,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 81212,
+      "end": 81318,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "tug",
+      "start": 81324,
+      "end": 81506,
+      "confidence": 0.99711,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 81538,
+      "end": 81638,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "cloak",
+      "start": 81644,
+      "end": 81906,
+      "confidence": 0.94183,
+      "speaker": null
+    },
+    {
+      "text": "back",
+      "start": 81938,
+      "end": 82134,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 82172,
+      "end": 82422,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "him,",
+      "start": 82476,
+      "end": 82646,
+      "confidence": 0.99661,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 82668,
+      "end": 82806,
+      "confidence": 0.99621,
+      "speaker": null
+    },
+    {
+      "text": "caught",
+      "start": 82828,
+      "end": 82978,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 82994,
+      "end": 83126,
+      "confidence": 0.92515,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 83148,
+      "end": 83238,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "quiver,",
+      "start": 83244,
+      "end": 83506,
+      "confidence": 0.99911,
+      "speaker": null
+    },
+    {
+      "text": "swinging",
+      "start": 83538,
+      "end": 83906,
+      "confidence": 0.85031,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 83938,
+      "end": 84038,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 84044,
+      "end": 84166,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "hip.",
+      "start": 84188,
+      "end": 84790,
+      "confidence": 0.52674,
+      "speaker": null
+    },
+    {
+      "text": "Trying",
+      "start": 85210,
+      "end": 85574,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 85612,
+      "end": 85766,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "hold",
+      "start": 85788,
+      "end": 85926,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 85948,
+      "end": 86086,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "cloak",
+      "start": 86108,
+      "end": 86354,
+      "confidence": 0.98016,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 86402,
+      "end": 86566,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "handed",
+      "start": 86588,
+      "end": 86866,
+      "confidence": 0.82996,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 86898,
+      "end": 87046,
+      "confidence": 0.9977,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 87068,
+      "end": 87206,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 87228,
+      "end": 87366,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "much",
+      "start": 87388,
+      "end": 87574,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "good",
+      "start": 87612,
+      "end": 87862,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "anyway.",
+      "start": 87916,
+      "end": 88520,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 88970,
+      "end": 89286,
+      "confidence": 0.99063,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 89308,
+      "end": 89494,
+      "confidence": 0.74801,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 89532,
+      "end": 89686,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "bow.",
+      "start": 89708,
+      "end": 89986,
+      "confidence": 0.99519,
+      "speaker": null
+    },
+    {
+      "text": "In",
+      "start": 90018,
+      "end": 90118,
+      "confidence": 0.59436,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 90124,
+      "end": 90198,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "other,",
+      "start": 90204,
+      "end": 90578,
+      "confidence": 0.6412,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 90684,
+      "end": 90906,
+      "confidence": 0.88029,
+      "speaker": null
+    },
+    {
+      "text": "arrow",
+      "start": 90928,
+      "end": 91254,
+      "confidence": 0.89108,
+      "speaker": null
+    },
+    {
+      "text": "knocked",
+      "start": 91302,
+      "end": 91686,
+      "confidence": 0.98463,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 91718,
+      "end": 91866,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "ready",
+      "start": 91888,
+      "end": 92074,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 92112,
+      "end": 92266,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "draw",
+      "start": 92288,
+      "end": 92860,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 94270,
+      "end": 94586,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 94608,
+      "end": 94746,
+      "confidence": 0.93,
+      "speaker": null
+    },
+    {
+      "text": "particularly",
+      "start": 94768,
+      "end": 95334,
+      "confidence": 0.89359,
+      "speaker": null
+    },
+    {
+      "text": "strong",
+      "start": 95382,
+      "end": 95642,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "blast",
+      "start": 95696,
+      "end": 96182,
+      "confidence": 0.51149,
+      "speaker": null
+    },
+    {
+      "text": "tugged",
+      "start": 96246,
+      "end": 96518,
+      "confidence": 0.76087,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 96534,
+      "end": 96666,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "cloak",
+      "start": 96688,
+      "end": 97014,
+      "confidence": 0.78206,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 97062,
+      "end": 97178,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 97184,
+      "end": 97306,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 97328,
+      "end": 97466,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "hand.",
+      "start": 97488,
+      "end": 97770,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 97840,
+      "end": 98026,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "glanced",
+      "start": 98048,
+      "end": 98358,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 98374,
+      "end": 98506,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 98528,
+      "end": 98666,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "father",
+      "start": 98688,
+      "end": 98934,
+      "confidence": 0.99856,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 98982,
+      "end": 99146,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 99168,
+      "end": 99306,
+      "confidence": 0.77,
+      "speaker": null
+    },
+    {
+      "text": "back",
+      "start": 99328,
+      "end": 99514,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 99552,
+      "end": 99658,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 99664,
+      "end": 99786,
+      "confidence": 0.62,
+      "speaker": null
+    },
+    {
+      "text": "shaggy",
+      "start": 99808,
+      "end": 100166,
+      "confidence": 0.74457,
+      "speaker": null
+    },
+    {
+      "text": "brown",
+      "start": 100198,
+      "end": 100454,
+      "confidence": 0.99881,
+      "speaker": null
+    },
+    {
+      "text": "mare.",
+      "start": 100502,
+      "end": 101366,
+      "confidence": 0.97332,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 101558,
+      "end": 101866,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "felt",
+      "start": 101888,
+      "end": 102038,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 102054,
+      "end": 102150,
+      "confidence": 0.75,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 102160,
+      "end": 102334,
+      "confidence": 0.99945,
+      "speaker": null
+    },
+    {
+      "text": "foolish",
+      "start": 102372,
+      "end": 102714,
+      "confidence": 0.62996,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 102762,
+      "end": 102974,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wanting",
+      "start": 103012,
+      "end": 103306,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 103338,
+      "end": 103438,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "reassure",
+      "start": 103444,
+      "end": 103866,
+      "confidence": 0.9983,
+      "speaker": null
+    },
+    {
+      "text": "himself",
+      "start": 103898,
+      "end": 104234,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 104282,
+      "end": 104446,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "Tam",
+      "start": 104468,
+      "end": 104666,
+      "confidence": 0.9484,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 104698,
+      "end": 104846,
+      "confidence": 0.99972,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 104868,
+      "end": 105054,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "there,",
+      "start": 105092,
+      "end": 105680,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 106130,
+      "end": 106494,
+      "confidence": 0.92738,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 106532,
+      "end": 106638,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 106644,
+      "end": 106766,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 106788,
+      "end": 106974,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "kind",
+      "start": 107012,
+      "end": 107166,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 107188,
+      "end": 107326,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "day.",
+      "start": 107348,
+      "end": 107920,
+      "confidence": 0.99803,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 108850,
+      "end": 109166,
+      "confidence": 0.95,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 109188,
+      "end": 109422,
+      "confidence": 0.9944,
+      "speaker": null
+    },
+    {
+      "text": "howled",
+      "start": 109476,
+      "end": 109866,
+      "confidence": 0.60206,
+      "speaker": null
+    },
+    {
+      "text": "when",
+      "start": 109898,
+      "end": 110046,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 110068,
+      "end": 110206,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "rose,",
+      "start": 110228,
+      "end": 110650,
+      "confidence": 0.99908,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 110730,
+      "end": 110926,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "aside",
+      "start": 110948,
+      "end": 111226,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 111258,
+      "end": 111406,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "that,",
+      "start": 111428,
+      "end": 111758,
+      "confidence": 0.9996,
+      "speaker": null
+    },
+    {
+      "text": "quiet",
+      "start": 111844,
+      "end": 112266,
+      "confidence": 0.77972,
+      "speaker": null
+    },
+    {
+      "text": "lay",
+      "start": 112298,
+      "end": 112494,
+      "confidence": 0.92904,
+      "speaker": null
+    },
+    {
+      "text": "heavy",
+      "start": 112532,
+      "end": 112826,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 112858,
+      "end": 112958,
+      "confidence": 0.99921,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 112964,
+      "end": 113086,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "land.",
+      "start": 113108,
+      "end": 113678,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 113844,
+      "end": 114174,
+      "confidence": 0.91,
+      "speaker": null
+    },
+    {
+      "text": "soft",
+      "start": 114212,
+      "end": 114462,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "creak",
+      "start": 114516,
+      "end": 114758,
+      "confidence": 0.29289,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 114794,
+      "end": 114898,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 114904,
+      "end": 115026,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "axle",
+      "start": 115048,
+      "end": 115454,
+      "confidence": 0.94879,
+      "speaker": null
+    },
+    {
+      "text": "sounded",
+      "start": 115502,
+      "end": 115806,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "loud",
+      "start": 115838,
+      "end": 116126,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 116158,
+      "end": 116354,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "comparison.",
+      "start": 116392,
+      "end": 117438,
+      "confidence": 0.99715,
+      "speaker": null
+    },
+    {
+      "text": "No",
+      "start": 117614,
+      "end": 117954,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "birds",
+      "start": 117992,
+      "end": 118414,
+      "confidence": 0.95402,
+      "speaker": null
+    },
+    {
+      "text": "sang",
+      "start": 118462,
+      "end": 118718,
+      "confidence": 0.99425,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 118734,
+      "end": 118818,
+      "confidence": 0.99917,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 118824,
+      "end": 118946,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "forest.",
+      "start": 118968,
+      "end": 119390,
+      "confidence": 0.99556,
+      "speaker": null
+    },
+    {
+      "text": "No",
+      "start": 119470,
+      "end": 119714,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "squirrels",
+      "start": 119752,
+      "end": 120238,
+      "confidence": 0.98984,
+      "speaker": null
+    },
+    {
+      "text": "chittered",
+      "start": 120254,
+      "end": 120638,
+      "confidence": 0.9808,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 120654,
+      "end": 120786,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 120808,
+      "end": 120898,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "branch.",
+      "start": 120904,
+      "end": 121678,
+      "confidence": 0.98559,
+      "speaker": null
+    },
+    {
+      "text": "Not",
+      "start": 121854,
+      "end": 122194,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 122232,
+      "end": 122338,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 122344,
+      "end": 122466,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "expected",
+      "start": 122488,
+      "end": 122926,
+      "confidence": 0.99935,
+      "speaker": null
+    },
+    {
+      "text": "them,",
+      "start": 122958,
+      "end": 123106,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "really,",
+      "start": 123128,
+      "end": 123650,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 123800,
+      "end": 124114,
+      "confidence": 0.99974,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 124152,
+      "end": 124354,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "spring.",
+      "start": 124392,
+      "end": 125170,
+      "confidence": 0.69931,
+      "speaker": null
+    },
+    {
+      "text": "Only",
+      "start": 126150,
+      "end": 126562,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "trees",
+      "start": 126616,
+      "end": 126974,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 127022,
+      "end": 127234,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "kept",
+      "start": 127272,
+      "end": 127534,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "leaf",
+      "start": 127582,
+      "end": 127806,
+      "confidence": 0.99269,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 127838,
+      "end": 127986,
+      "confidence": 0.99444,
+      "speaker": null
+    },
+    {
+      "text": "needle",
+      "start": 128008,
+      "end": 128366,
+      "confidence": 0.99746,
+      "speaker": null
+    },
+    {
+      "text": "through",
+      "start": 128398,
+      "end": 128546,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 128568,
+      "end": 128658,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "winter",
+      "start": 128664,
+      "end": 128974,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 129022,
+      "end": 129150,
+      "confidence": 0.8,
+      "speaker": null
+    },
+    {
+      "text": "any",
+      "start": 129160,
+      "end": 129334,
+      "confidence": 0.99952,
+      "speaker": null
+    },
+    {
+      "text": "green",
+      "start": 129372,
+      "end": 129574,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 129612,
+      "end": 129862,
+      "confidence": 0.90024,
+      "speaker": null
+    },
+    {
+      "text": "them.",
+      "start": 129916,
+      "end": 130520,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "Snarls",
+      "start": 130890,
+      "end": 131618,
+      "confidence": 0.76308,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 131634,
+      "end": 131766,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "last",
+      "start": 131788,
+      "end": 131974,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "year's",
+      "start": 132012,
+      "end": 132354,
+      "confidence": 0.80011,
+      "speaker": null
+    },
+    {
+      "text": "bramble",
+      "start": 132402,
+      "end": 132882,
+      "confidence": 0.98507,
+      "speaker": null
+    },
+    {
+      "text": "spread",
+      "start": 132946,
+      "end": 133266,
+      "confidence": 0.9875,
+      "speaker": null
+    },
+    {
+      "text": "brown",
+      "start": 133298,
+      "end": 133634,
+      "confidence": 0.78088,
+      "speaker": null
+    },
+    {
+      "text": "webs",
+      "start": 133682,
+      "end": 133990,
+      "confidence": 0.96373,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 134060,
+      "end": 134294,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "stone",
+      "start": 134332,
+      "end": 134626,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "outcrops",
+      "start": 134658,
+      "end": 135186,
+      "confidence": 0.64688,
+      "speaker": null
+    },
+    {
+      "text": "under",
+      "start": 135218,
+      "end": 135414,
+      "confidence": 0.99704,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 135452,
+      "end": 135558,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "trees.",
+      "start": 135564,
+      "end": 136230,
+      "confidence": 0.97533,
+      "speaker": null
+    },
+    {
+      "text": "Nettles",
+      "start": 136570,
+      "end": 137154,
+      "confidence": 0.97041,
+      "speaker": null
+    },
+    {
+      "text": "numbered",
+      "start": 137202,
+      "end": 137586,
+      "confidence": 0.99338,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 137618,
+      "end": 137814,
+      "confidence": 0.99935,
+      "speaker": null
+    },
+    {
+      "text": "among",
+      "start": 137852,
+      "end": 138066,
+      "confidence": 0.96129,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 138098,
+      "end": 138198,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "few",
+      "start": 138204,
+      "end": 138374,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "weeds.",
+      "start": 138412,
+      "end": 139026,
+      "confidence": 0.97951,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 139138,
+      "end": 139366,
+      "confidence": 0.66,
+      "speaker": null
+    },
+    {
+      "text": "rest",
+      "start": 139388,
+      "end": 139622,
+      "confidence": 0.90501,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 139676,
+      "end": 139846,
+      "confidence": 0.99871,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 139868,
+      "end": 140006,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "sorts",
+      "start": 140028,
+      "end": 140338,
+      "confidence": 0.99753,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 140354,
+      "end": 140534,
+      "confidence": 0.97666,
+      "speaker": null
+    },
+    {
+      "text": "sharp",
+      "start": 140572,
+      "end": 140866,
+      "confidence": 0.99915,
+      "speaker": null
+    },
+    {
+      "text": "burrs",
+      "start": 140898,
+      "end": 141230,
+      "confidence": 0.19664,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 141250,
+      "end": 141386,
+      "confidence": 0.9995,
+      "speaker": null
+    },
+    {
+      "text": "thorns",
+      "start": 141408,
+      "end": 141974,
+      "confidence": 0.90498,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 142022,
+      "end": 142186,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "stinkweed,",
+      "start": 142208,
+      "end": 142806,
+      "confidence": 0.66435,
+      "speaker": null
+    },
+    {
+      "text": "which",
+      "start": 142838,
+      "end": 143034,
+      "confidence": 0.77824,
+      "speaker": null
+    },
+    {
+      "text": "left",
+      "start": 143072,
+      "end": 143274,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 143312,
+      "end": 143418,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "rank",
+      "start": 143424,
+      "end": 143766,
+      "confidence": 0.93124,
+      "speaker": null
+    },
+    {
+      "text": "smell",
+      "start": 143798,
+      "end": 144086,
+      "confidence": 0.99686,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 144118,
+      "end": 144218,
+      "confidence": 0.99919,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 144224,
+      "end": 144298,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "unwary",
+      "start": 144304,
+      "end": 144742,
+      "confidence": 0.94317,
+      "speaker": null
+    },
+    {
+      "text": "booth",
+      "start": 144806,
+      "end": 145046,
+      "confidence": 0.66241,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 145078,
+      "end": 145274,
+      "confidence": 0.88882,
+      "speaker": null
+    },
+    {
+      "text": "crushed",
+      "start": 145312,
+      "end": 145606,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "it.",
+      "start": 145638,
+      "end": 146220,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "Scattered",
+      "start": 146910,
+      "end": 147478,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "white",
+      "start": 147494,
+      "end": 147674,
+      "confidence": 0.99945,
+      "speaker": null
+    },
+    {
+      "text": "patches",
+      "start": 147712,
+      "end": 148118,
+      "confidence": 0.99929,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 148134,
+      "end": 148266,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "snow",
+      "start": 148288,
+      "end": 148662,
+      "confidence": 0.99219,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 148726,
+      "end": 148954,
+      "confidence": 0.76877,
+      "speaker": null
+    },
+    {
+      "text": "dotted",
+      "start": 148992,
+      "end": 149238,
+      "confidence": 0.67021,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 149254,
+      "end": 149386,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "ground,",
+      "start": 149408,
+      "end": 149654,
+      "confidence": 0.98612,
+      "speaker": null
+    },
+    {
+      "text": "where",
+      "start": 149702,
+      "end": 149914,
+      "confidence": 0.98242,
+      "speaker": null
+    },
+    {
+      "text": "tight",
+      "start": 149952,
+      "end": 150214,
+      "confidence": 0.73284,
+      "speaker": null
+    },
+    {
+      "text": "clumps",
+      "start": 150262,
+      "end": 150598,
+      "confidence": 0.97697,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 150614,
+      "end": 150710,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "trees",
+      "start": 150720,
+      "end": 151082,
+      "confidence": 0.96386,
+      "speaker": null
+    },
+    {
+      "text": "kept",
+      "start": 151146,
+      "end": 151386,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "deep",
+      "start": 151418,
+      "end": 151674,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "shade.",
+      "start": 151722,
+      "end": 152590,
+      "confidence": 0.9604,
+      "speaker": null
+    },
+    {
+      "text": "Where",
+      "start": 153170,
+      "end": 153582,
+      "confidence": 0.53466,
+      "speaker": null
+    },
+    {
+      "text": "sunlight",
+      "start": 153636,
+      "end": 154074,
+      "confidence": 0.9972,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 154122,
+      "end": 154334,
+      "confidence": 0.99377,
+      "speaker": null
+    },
+    {
+      "text": "reach,",
+      "start": 154372,
+      "end": 154814,
+      "confidence": 0.87219,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 154932,
+      "end": 155166,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "held",
+      "start": 155188,
+      "end": 155466,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "neither",
+      "start": 155498,
+      "end": 155802,
+      "confidence": 0.99642,
+      "speaker": null
+    },
+    {
+      "text": "strength",
+      "start": 155866,
+      "end": 156314,
+      "confidence": 0.71071,
+      "speaker": null
+    },
+    {
+      "text": "nor",
+      "start": 156362,
+      "end": 156574,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "warmth.",
+      "start": 156612,
+      "end": 157546,
+      "confidence": 0.94584,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 157738,
+      "end": 158046,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "pale",
+      "start": 158068,
+      "end": 158394,
+      "confidence": 0.98966,
+      "speaker": null
+    },
+    {
+      "text": "sun",
+      "start": 158442,
+      "end": 158654,
+      "confidence": 0.99711,
+      "speaker": null
+    },
+    {
+      "text": "sat",
+      "start": 158692,
+      "end": 158938,
+      "confidence": 0.7865,
+      "speaker": null
+    },
+    {
+      "text": "above",
+      "start": 158954,
+      "end": 159178,
+      "confidence": 0.99919,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 159194,
+      "end": 159326,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "trees",
+      "start": 159348,
+      "end": 159546,
+      "confidence": 0.99956,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 159578,
+      "end": 159726,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 159748,
+      "end": 159886,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "east,",
+      "start": 159908,
+      "end": 160426,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 160538,
+      "end": 160814,
+      "confidence": 0.96651,
+      "speaker": null
+    },
+    {
+      "text": "its",
+      "start": 160852,
+      "end": 161006,
+      "confidence": 0.99908,
+      "speaker": null
+    },
+    {
+      "text": "light",
+      "start": 161028,
+      "end": 161214,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 161252,
+      "end": 161406,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "crisply,",
+      "start": 161428,
+      "end": 161866,
+      "confidence": 0.20614,
+      "speaker": null
+    },
+    {
+      "text": "dark,",
+      "start": 161898,
+      "end": 162426,
+      "confidence": 0.72673,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 162538,
+      "end": 162766,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 162788,
+      "end": 162926,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "mixed",
+      "start": 162948,
+      "end": 163178,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 163194,
+      "end": 163374,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "shadow.",
+      "start": 163412,
+      "end": 164182,
+      "confidence": 0.99766,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 164346,
+      "end": 164626,
+      "confidence": 0.99849,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 164648,
+      "end": 164786,
+      "confidence": 0.6451,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 164808,
+      "end": 164946,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "awkward",
+      "start": 164968,
+      "end": 165294,
+      "confidence": 0.99967,
+      "speaker": null
+    },
+    {
+      "text": "morning,",
+      "start": 165342,
+      "end": 166034,
+      "confidence": 0.8915,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 166232,
+      "end": 166594,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 166632,
+      "end": 166834,
+      "confidence": 0.89249,
+      "speaker": null
+    },
+    {
+      "text": "unpleasant",
+      "start": 166872,
+      "end": 167406,
+      "confidence": 0.99868,
+      "speaker": null
+    },
+    {
+      "text": "thoughts.",
+      "start": 167438,
+      "end": 168290,
+      "confidence": 0.98952,
+      "speaker": null
+    },
+    {
+      "text": "Without",
+      "start": 169110,
+      "end": 169570,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "thinking,",
+      "start": 169640,
+      "end": 169922,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 169976,
+      "end": 170146,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "touched",
+      "start": 170168,
+      "end": 170398,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 170414,
+      "end": 170498,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "knock",
+      "start": 170504,
+      "end": 170686,
+      "confidence": 0.96914,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 170718,
+      "end": 170866,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 170888,
+      "end": 170978,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "arrow.",
+      "start": 170984,
+      "end": 171726,
+      "confidence": 0.97634,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 171918,
+      "end": 172226,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 172248,
+      "end": 172434,
+      "confidence": 0.9989,
+      "speaker": null
+    },
+    {
+      "text": "ready",
+      "start": 172472,
+      "end": 172674,
+      "confidence": 0.99972,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 172712,
+      "end": 172866,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "draw",
+      "start": 172888,
+      "end": 173122,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 173176,
+      "end": 173298,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 173304,
+      "end": 173426,
+      "confidence": 0.99964,
+      "speaker": null
+    },
+    {
+      "text": "cheek",
+      "start": 173448,
+      "end": 173726,
+      "confidence": 0.99175,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 173758,
+      "end": 173906,
+      "confidence": 0.62132,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 173928,
+      "end": 174066,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "smooth",
+      "start": 174088,
+      "end": 174446,
+      "confidence": 0.7574,
+      "speaker": null
+    },
+    {
+      "text": "movement,",
+      "start": 174478,
+      "end": 175086,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 175198,
+      "end": 175378,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "way",
+      "start": 175384,
+      "end": 175554,
+      "confidence": 0.99919,
+      "speaker": null
+    },
+    {
+      "text": "Tam",
+      "start": 175592,
+      "end": 175806,
+      "confidence": 0.97043,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 175838,
+      "end": 175986,
+      "confidence": 0.99964,
+      "speaker": null
+    },
+    {
+      "text": "taught",
+      "start": 176008,
+      "end": 176254,
+      "confidence": 0.99934,
+      "speaker": null
+    },
+    {
+      "text": "him.",
+      "start": 176302,
+      "end": 176900,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "Winter",
+      "start": 177430,
+      "end": 177966,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 177998,
+      "end": 178098,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 178104,
+      "end": 178226,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "bad",
+      "start": 178248,
+      "end": 178434,
+      "confidence": 0.99497,
+      "speaker": null
+    },
+    {
+      "text": "enough",
+      "start": 178472,
+      "end": 178722,
+      "confidence": 0.99936,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 178776,
+      "end": 178898,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 178904,
+      "end": 179026,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "farms,",
+      "start": 179048,
+      "end": 179706,
+      "confidence": 0.99754,
+      "speaker": null
+    },
+    {
+      "text": "worse",
+      "start": 179838,
+      "end": 180146,
+      "confidence": 0.99964,
+      "speaker": null
+    },
+    {
+      "text": "than",
+      "start": 180178,
+      "end": 180326,
+      "confidence": 0.9992,
+      "speaker": null
+    },
+    {
+      "text": "even",
+      "start": 180348,
+      "end": 180486,
+      "confidence": 0.99944,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 180508,
+      "end": 180646,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "oldest",
+      "start": 180668,
+      "end": 180946,
+      "confidence": 0.97256,
+      "speaker": null
+    },
+    {
+      "text": "folk",
+      "start": 180978,
+      "end": 181234,
+      "confidence": 0.56703,
+      "speaker": null
+    },
+    {
+      "text": "remembered,",
+      "start": 181282,
+      "end": 181938,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 182034,
+      "end": 182246,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 182268,
+      "end": 182358,
+      "confidence": 0.99792,
+      "speaker": null
+    },
+    {
+      "text": "must",
+      "start": 182364,
+      "end": 182534,
+      "confidence": 0.99906,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 182572,
+      "end": 182678,
+      "confidence": 0.99644,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 182684,
+      "end": 182854,
+      "confidence": 0.99837,
+      "speaker": null
+    },
+    {
+      "text": "harsher",
+      "start": 182892,
+      "end": 183266,
+      "confidence": 0.99896,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 183298,
+      "end": 183542,
+      "confidence": 0.86902,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 183596,
+      "end": 183718,
+      "confidence": 0.99327,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 183724,
+      "end": 183798,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "mountains",
+      "start": 183804,
+      "end": 184242,
+      "confidence": 0.96502,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 184306,
+      "end": 184486,
+      "confidence": 0.9998,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 184508,
+      "end": 184598,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "number",
+      "start": 184604,
+      "end": 184822,
+      "confidence": 0.99955,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 184876,
+      "end": 185046,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wolves",
+      "start": 185068,
+      "end": 185394,
+      "confidence": 0.91623,
+      "speaker": null
+    },
+    {
+      "text": "driven",
+      "start": 185442,
+      "end": 185826,
+      "confidence": 0.52838,
+      "speaker": null
+    },
+    {
+      "text": "down",
+      "start": 185858,
+      "end": 186054,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 186092,
+      "end": 186294,
+      "confidence": 0.99897,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 186332,
+      "end": 186438,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "two",
+      "start": 186444,
+      "end": 186614,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "rivers",
+      "start": 186652,
+      "end": 187074,
+      "confidence": 0.96203,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 187122,
+      "end": 187334,
+      "confidence": 0.99924,
+      "speaker": null
+    },
+    {
+      "text": "any",
+      "start": 187372,
+      "end": 187526,
+      "confidence": 0.9995,
+      "speaker": null
+    },
+    {
+      "text": "guide.",
+      "start": 187548,
+      "end": 188230,
+      "confidence": 0.99353,
+      "speaker": null
+    },
+    {
+      "text": "Wolves",
+      "start": 188970,
+      "end": 189474,
+      "confidence": 0.96223,
+      "speaker": null
+    },
+    {
+      "text": "raided",
+      "start": 189522,
+      "end": 189794,
+      "confidence": 0.87321,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 189842,
+      "end": 189958,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "sheep",
+      "start": 189964,
+      "end": 190194,
+      "confidence": 0.74826,
+      "speaker": null
+    },
+    {
+      "text": "pens",
+      "start": 190242,
+      "end": 190558,
+      "confidence": 0.76247,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 190594,
+      "end": 190746,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "chewed",
+      "start": 190768,
+      "end": 191046,
+      "confidence": 0.99881,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 191078,
+      "end": 191178,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "way",
+      "start": 191184,
+      "end": 191354,
+      "confidence": 0.99184,
+      "speaker": null
+    },
+    {
+      "text": "into",
+      "start": 191392,
+      "end": 191594,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "barns",
+      "start": 191632,
+      "end": 192086,
+      "confidence": 0.84166,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 192118,
+      "end": 192218,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 192224,
+      "end": 192346,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 192368,
+      "end": 192458,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "cattle",
+      "start": 192464,
+      "end": 192806,
+      "confidence": 0.98903,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 192838,
+      "end": 192938,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "horses.",
+      "start": 192944,
+      "end": 193770,
+      "confidence": 0.92673,
+      "speaker": null
+    },
+    {
+      "text": "Bears",
+      "start": 194350,
+      "end": 194822,
+      "confidence": 0.8815,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 194886,
+      "end": 195018,
+      "confidence": 0.99742,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 195024,
+      "end": 195194,
+      "confidence": 0.78533,
+      "speaker": null
+    },
+    {
+      "text": "after",
+      "start": 195232,
+      "end": 195434,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 195472,
+      "end": 195626,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "sheep,",
+      "start": 195648,
+      "end": 195894,
+      "confidence": 0.98733,
+      "speaker": null
+    },
+    {
+      "text": "too,",
+      "start": 195942,
+      "end": 196346,
+      "confidence": 0.99913,
+      "speaker": null
+    },
+    {
+      "text": "where",
+      "start": 196448,
+      "end": 196666,
+      "confidence": 0.99214,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 196688,
+      "end": 196826,
+      "confidence": 0.86,
+      "speaker": null
+    },
+    {
+      "text": "bear",
+      "start": 196848,
+      "end": 197046,
+      "confidence": 0.99861,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 197078,
+      "end": 197226,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 197248,
+      "end": 197386,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 197408,
+      "end": 197546,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "seen",
+      "start": 197568,
+      "end": 197802,
+      "confidence": 0.70341,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 197856,
+      "end": 198026,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "years.",
+      "start": 198048,
+      "end": 198620,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "It",
+      "start": 199550,
+      "end": 199866,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 199888,
+      "end": 200026,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "no",
+      "start": 200048,
+      "end": 200186,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "longer",
+      "start": 200208,
+      "end": 200442,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "safe",
+      "start": 200496,
+      "end": 200726,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 200758,
+      "end": 200858,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 200864,
+      "end": 200986,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "out",
+      "start": 201008,
+      "end": 201194,
+      "confidence": 0.83677,
+      "speaker": null
+    },
+    {
+      "text": "after",
+      "start": 201232,
+      "end": 201482,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "dark.",
+      "start": 201536,
+      "end": 202170,
+      "confidence": 0.98419,
+      "speaker": null
+    },
+    {
+      "text": "Men",
+      "start": 202510,
+      "end": 202874,
+      "confidence": 0.99616,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 202912,
+      "end": 203066,
+      "confidence": 0.77019,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 203088,
+      "end": 203226,
+      "confidence": 0.51,
+      "speaker": null
+    },
+    {
+      "text": "prey",
+      "start": 203248,
+      "end": 203526,
+      "confidence": 0.99921,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 203558,
+      "end": 203718,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "often",
+      "start": 203744,
+      "end": 203982,
+      "confidence": 0.99931,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 204036,
+      "end": 204206,
+      "confidence": 0.9923,
+      "speaker": null
+    },
+    {
+      "text": "sheep,",
+      "start": 204228,
+      "end": 204842,
+      "confidence": 0.97688,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 204986,
+      "end": 205246,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 205268,
+      "end": 205406,
+      "confidence": 0.56,
+      "speaker": null
+    },
+    {
+      "text": "sun",
+      "start": 205428,
+      "end": 205662,
+      "confidence": 0.99752,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 205716,
+      "end": 205886,
+      "confidence": 0.99848,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 205908,
+      "end": 206046,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "always",
+      "start": 206068,
+      "end": 206302,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 206356,
+      "end": 206526,
+      "confidence": 0.99863,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 206548,
+      "end": 206638,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 206644,
+      "end": 206766,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "down.",
+      "start": 206788,
+      "end": 207360,
+      "confidence": 0.50753,
+      "speaker": null
+    },
+    {
+      "text": "Tam",
+      "start": 208130,
+      "end": 208634,
+      "confidence": 0.96134,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 208682,
+      "end": 208846,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "taking",
+      "start": 208868,
+      "end": 209054,
+      "confidence": 0.99951,
+      "speaker": null
+    },
+    {
+      "text": "steady",
+      "start": 209092,
+      "end": 209386,
+      "confidence": 0.99734,
+      "speaker": null
+    },
+    {
+      "text": "strides",
+      "start": 209418,
+      "end": 209786,
+      "confidence": 0.99937,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 209818,
+      "end": 209918,
+      "confidence": 0.99901,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 209924,
+      "end": 210046,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "other",
+      "start": 210068,
+      "end": 210206,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "side",
+      "start": 210228,
+      "end": 210414,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 210452,
+      "end": 210606,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Bella,",
+      "start": 210628,
+      "end": 210954,
+      "confidence": 0.79746,
+      "speaker": null
+    },
+    {
+      "text": "using",
+      "start": 211002,
+      "end": 211262,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 211316,
+      "end": 211486,
+      "confidence": 0.99952,
+      "speaker": null
+    },
+    {
+      "text": "spears,",
+      "start": 211508,
+      "end": 211866,
+      "confidence": 0.55423,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 211898,
+      "end": 211998,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "walking",
+      "start": 212004,
+      "end": 212346,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "staff,",
+      "start": 212378,
+      "end": 213050,
+      "confidence": 0.91328,
+      "speaker": null
+    },
+    {
+      "text": "ignoring",
+      "start": 213210,
+      "end": 213738,
+      "confidence": 0.99784,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 213754,
+      "end": 213886,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "wind",
+      "start": 213908,
+      "end": 214094,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 214132,
+      "end": 214286,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "made",
+      "start": 214308,
+      "end": 214446,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 214468,
+      "end": 214606,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "brown",
+      "start": 214628,
+      "end": 214906,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "cloak",
+      "start": 214938,
+      "end": 215274,
+      "confidence": 0.9942,
+      "speaker": null
+    },
+    {
+      "text": "flap",
+      "start": 215322,
+      "end": 215626,
+      "confidence": 0.99548,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 215658,
+      "end": 215818,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 215844,
+      "end": 215938,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "banner.",
+      "start": 215944,
+      "end": 216690,
+      "confidence": 0.96695,
+      "speaker": null
+    },
+    {
+      "text": "Now",
+      "start": 217190,
+      "end": 217506,
+      "confidence": 0.99966,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 217528,
+      "end": 217714,
+      "confidence": 0.51,
+      "speaker": null
+    },
+    {
+      "text": "again",
+      "start": 217752,
+      "end": 217954,
+      "confidence": 0.99888,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 217992,
+      "end": 218146,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "touched",
+      "start": 218168,
+      "end": 218398,
+      "confidence": 0.99954,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 218414,
+      "end": 218498,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "mares",
+      "start": 218504,
+      "end": 218766,
+      "confidence": 0.75797,
+      "speaker": null
+    },
+    {
+      "text": "flank",
+      "start": 218798,
+      "end": 219054,
+      "confidence": 0.93324,
+      "speaker": null
+    },
+    {
+      "text": "lightly",
+      "start": 219102,
+      "end": 219406,
+      "confidence": 0.99593,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 219438,
+      "end": 219586,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "remind",
+      "start": 219608,
+      "end": 219838,
+      "confidence": 0.98317,
+      "speaker": null
+    },
+    {
+      "text": "her",
+      "start": 219854,
+      "end": 219986,
+      "confidence": 0.87385,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 220008,
+      "end": 220098,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "keep",
+      "start": 220104,
+      "end": 220274,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "moving.",
+      "start": 220312,
+      "end": 220900,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "With",
+      "start": 221430,
+      "end": 221794,
+      "confidence": 0.99169,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 221832,
+      "end": 222034,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "thick",
+      "start": 222072,
+      "end": 222334,
+      "confidence": 0.71237,
+      "speaker": null
+    },
+    {
+      "text": "chest",
+      "start": 222382,
+      "end": 222654,
+      "confidence": 0.99667,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 222702,
+      "end": 222866,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "broad",
+      "start": 222888,
+      "end": 223214,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "face,",
+      "start": 223262,
+      "end": 223570,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 223640,
+      "end": 223826,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 223848,
+      "end": 223986,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 224008,
+      "end": 224098,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "pillar",
+      "start": 224104,
+      "end": 224366,
+      "confidence": 0.99861,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 224398,
+      "end": 224546,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "reality",
+      "start": 224568,
+      "end": 224974,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 225022,
+      "end": 225186,
+      "confidence": 0.99785,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 225208,
+      "end": 225346,
+      "confidence": 0.99984,
+      "speaker": null
+    },
+    {
+      "text": "morning,",
+      "start": 225368,
+      "end": 225938,
+      "confidence": 0.99943,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 226104,
+      "end": 226434,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 226472,
+      "end": 226626,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stone",
+      "start": 226648,
+      "end": 226926,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 226958,
+      "end": 227058,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 227064,
+      "end": 227186,
+      "confidence": 0.83,
+      "speaker": null
+    },
+    {
+      "text": "middle",
+      "start": 227208,
+      "end": 227346,
+      "confidence": 0.9998,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 227368,
+      "end": 227506,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 227528,
+      "end": 227618,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "drifting",
+      "start": 227624,
+      "end": 228046,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "dream.",
+      "start": 228078,
+      "end": 228850,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "His",
+      "start": 229190,
+      "end": 229554,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "son",
+      "start": 229592,
+      "end": 229746,
+      "confidence": 0.12854,
+      "speaker": null
+    },
+    {
+      "text": "roughened",
+      "start": 229768,
+      "end": 230218,
+      "confidence": 0.58849,
+      "speaker": null
+    },
+    {
+      "text": "cheeks",
+      "start": 230254,
+      "end": 230642,
+      "confidence": 0.99422,
+      "speaker": null
+    },
+    {
+      "text": "might",
+      "start": 230706,
+      "end": 230934,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 230972,
+      "end": 231126,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "lined,",
+      "start": 231148,
+      "end": 231746,
+      "confidence": 0.98362,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 231858,
+      "end": 232086,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 232108,
+      "end": 232294,
+      "confidence": 0.99943,
+      "speaker": null
+    },
+    {
+      "text": "hair",
+      "start": 232332,
+      "end": 232546,
+      "confidence": 0.99838,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 232578,
+      "end": 232774,
+      "confidence": 0.86274,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 232812,
+      "end": 232966,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 232988,
+      "end": 233126,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "sprinkling",
+      "start": 233148,
+      "end": 233586,
+      "confidence": 0.97908,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 233618,
+      "end": 233814,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "black",
+      "start": 233852,
+      "end": 234102,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "among",
+      "start": 234156,
+      "end": 234434,
+      "confidence": 0.638,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 234482,
+      "end": 234598,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "gray,",
+      "start": 234604,
+      "end": 235250,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 235410,
+      "end": 235734,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 235772,
+      "end": 235926,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 235948,
+      "end": 236086,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 236108,
+      "end": 236198,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "solidness",
+      "start": 236204,
+      "end": 236754,
+      "confidence": 0.99951,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 236802,
+      "end": 236966,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "him,",
+      "start": 236988,
+      "end": 237366,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 237468,
+      "end": 237686,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "though",
+      "start": 237708,
+      "end": 237894,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 237932,
+      "end": 238086,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "flood",
+      "start": 238108,
+      "end": 238354,
+      "confidence": 0.88723,
+      "speaker": null
+    },
+    {
+      "text": "could",
+      "start": 238402,
+      "end": 238566,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "wash",
+      "start": 238588,
+      "end": 238866,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 238898,
+      "end": 239154,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "him",
+      "start": 239212,
+      "end": 239434,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "without",
+      "start": 239472,
+      "end": 239674,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "uprooting",
+      "start": 239712,
+      "end": 240166,
+      "confidence": 0.98258,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 240198,
+      "end": 240346,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "feet.",
+      "start": 240368,
+      "end": 241050,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 241710,
+      "end": 242074,
+      "confidence": 0.99977,
+      "speaker": null
+    },
+    {
+      "text": "stumped",
+      "start": 242112,
+      "end": 242486,
+      "confidence": 0.89326,
+      "speaker": null
+    },
+    {
+      "text": "down",
+      "start": 242518,
+      "end": 242714,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 242752,
+      "end": 242858,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "road",
+      "start": 242864,
+      "end": 243130,
+      "confidence": 0.96437,
+      "speaker": null
+    },
+    {
+      "text": "now",
+      "start": 243200,
+      "end": 243434,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "impassively.",
+      "start": 243472,
+      "end": 244570,
+      "confidence": 0.98674,
+      "speaker": null
+    },
+    {
+      "text": "Wolves",
+      "start": 244990,
+      "end": 245446,
+      "confidence": 0.68382,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 245478,
+      "end": 245626,
+      "confidence": 0.94,
+      "speaker": null
+    },
+    {
+      "text": "bears",
+      "start": 245648,
+      "end": 245974,
+      "confidence": 0.99859,
+      "speaker": null
+    },
+    {
+      "text": "were",
+      "start": 246022,
+      "end": 246234,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 246272,
+      "end": 246426,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 246448,
+      "end": 246682,
+      "confidence": 0.87905,
+      "speaker": null
+    },
+    {
+      "text": "well.",
+      "start": 246736,
+      "end": 247002,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "His",
+      "start": 247056,
+      "end": 247274,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "manner",
+      "start": 247312,
+      "end": 247606,
+      "confidence": 0.95047,
+      "speaker": null
+    },
+    {
+      "text": "said",
+      "start": 247638,
+      "end": 248074,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 248192,
+      "end": 248522,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 248576,
+      "end": 248746,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "any",
+      "start": 248768,
+      "end": 248954,
+      "confidence": 0.84506,
+      "speaker": null
+    },
+    {
+      "text": "man",
+      "start": 248992,
+      "end": 249146,
+      "confidence": 0.9987,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 249168,
+      "end": 249306,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "kept",
+      "start": 249328,
+      "end": 249526,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "sheep",
+      "start": 249558,
+      "end": 249846,
+      "confidence": 0.99362,
+      "speaker": null
+    },
+    {
+      "text": "must",
+      "start": 249878,
+      "end": 250074,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 250112,
+      "end": 250218,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "aware",
+      "start": 250224,
+      "end": 250486,
+      "confidence": 0.97779,
+      "speaker": null
+    },
+    {
+      "text": "of,",
+      "start": 250518,
+      "end": 251146,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 251328,
+      "end": 251626,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 251648,
+      "end": 251786,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 251808,
+      "end": 251946,
+      "confidence": 0.9891,
+      "speaker": null
+    },
+    {
+      "text": "best",
+      "start": 251968,
+      "end": 252154,
+      "confidence": 0.99877,
+      "speaker": null
+    },
+    {
+      "text": "not",
+      "start": 252192,
+      "end": 252394,
+      "confidence": 0.99806,
+      "speaker": null
+    },
+    {
+      "text": "try",
+      "start": 252432,
+      "end": 252586,
+      "confidence": 0.96507,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 252608,
+      "end": 252698,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "stop",
+      "start": 252704,
+      "end": 252922,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "Tam.",
+      "start": 252976,
+      "end": 253206,
+      "confidence": 0.92141,
+      "speaker": null
+    },
+    {
+      "text": "Although",
+      "start": 253238,
+      "end": 253782,
+      "confidence": 0.48845,
+      "speaker": null
+    },
+    {
+      "text": "getting",
+      "start": 253846,
+      "end": 254074,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 254112,
+      "end": 254218,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Eman's",
+      "start": 254224,
+      "end": 254610,
+      "confidence": 0.17739,
+      "speaker": null
+    },
+    {
+      "text": "Field",
+      "start": 254630,
+      "end": 255200,
+      "confidence": 0.56123,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 256210,
+      "end": 256526,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 256548,
+      "end": 256638,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "guilty",
+      "start": 256644,
+      "end": 256986,
+      "confidence": 0.99564,
+      "speaker": null
+    },
+    {
+      "text": "start,",
+      "start": 257018,
+      "end": 257262,
+      "confidence": 0.99967,
+      "speaker": null
+    },
+    {
+      "text": "rand",
+      "start": 257316,
+      "end": 257674,
+      "confidence": 0.99485,
+      "speaker": null
+    },
+    {
+      "text": "returned",
+      "start": 257722,
+      "end": 258058,
+      "confidence": 0.99941,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 258074,
+      "end": 258206,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "watching",
+      "start": 258228,
+      "end": 258510,
+      "confidence": 0.99432,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 258580,
+      "end": 258766,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "side",
+      "start": 258788,
+      "end": 258926,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 258948,
+      "end": 259086,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 259108,
+      "end": 259198,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "road,",
+      "start": 259204,
+      "end": 259662,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "Tam's",
+      "start": 259796,
+      "end": 260266,
+      "confidence": 0.97546,
+      "speaker": null
+    },
+    {
+      "text": "matter",
+      "start": 260298,
+      "end": 260494,
+      "confidence": 0.99885,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 260532,
+      "end": 260638,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "factness",
+      "start": 260644,
+      "end": 261034,
+      "confidence": 0.96962,
+      "speaker": null
+    },
+    {
+      "text": "reminding",
+      "start": 261082,
+      "end": 261466,
+      "confidence": 0.99598,
+      "speaker": null
+    },
+    {
+      "text": "him",
+      "start": 261498,
+      "end": 261646,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 261668,
+      "end": 261758,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 261764,
+      "end": 261886,
+      "confidence": 0.99971,
+      "speaker": null
+    },
+    {
+      "text": "task.",
+      "start": 261908,
+      "end": 262670,
+      "confidence": 0.9199,
+      "speaker": null
+    },
+    {
+      "text": "He",
+      "start": 263490,
+      "end": 263854,
+      "confidence": 0.66968,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 263892,
+      "end": 264046,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 264068,
+      "end": 264158,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "head",
+      "start": 264164,
+      "end": 264334,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "taller",
+      "start": 264372,
+      "end": 264678,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "than",
+      "start": 264714,
+      "end": 264866,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 264888,
+      "end": 265026,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "father,",
+      "start": 265048,
+      "end": 265630,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "taller",
+      "start": 265790,
+      "end": 266286,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "than",
+      "start": 266318,
+      "end": 266466,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "anyone",
+      "start": 266488,
+      "end": 266722,
+      "confidence": 0.57512,
+      "speaker": null
+    },
+    {
+      "text": "else",
+      "start": 266776,
+      "end": 266994,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 267032,
+      "end": 267138,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 267144,
+      "end": 267266,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "district,",
+      "start": 267288,
+      "end": 267902,
+      "confidence": 0.89552,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 268046,
+      "end": 268354,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 268392,
+      "end": 268594,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 268632,
+      "end": 268834,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 268872,
+      "end": 269026,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Tam",
+      "start": 269048,
+      "end": 269246,
+      "confidence": 0.97414,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 269278,
+      "end": 269378,
+      "confidence": 0.99291,
+      "speaker": null
+    },
+    {
+      "text": "him",
+      "start": 269384,
+      "end": 269506,
+      "confidence": 0.95925,
+      "speaker": null
+    },
+    {
+      "text": "physically,",
+      "start": 269528,
+      "end": 270238,
+      "confidence": 0.65284,
+      "speaker": null
+    },
+    {
+      "text": "except",
+      "start": 270414,
+      "end": 270846,
+      "confidence": 0.91434,
+      "speaker": null
+    },
+    {
+      "text": "perhaps",
+      "start": 270878,
+      "end": 271246,
+      "confidence": 0.9913,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 271278,
+      "end": 271426,
+      "confidence": 0.81613,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 271448,
+      "end": 271538,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "breath",
+      "start": 271544,
+      "end": 271806,
+      "confidence": 0.52266,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 271838,
+      "end": 271986,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "shoulder.",
+      "start": 272008,
+      "end": 272770,
+      "confidence": 0.97539,
+      "speaker": null
+    },
+    {
+      "text": "Gray",
+      "start": 273510,
+      "end": 273934,
+      "confidence": 0.48,
+      "speaker": null
+    },
+    {
+      "text": "eyes,",
+      "start": 273982,
+      "end": 274290,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 274360,
+      "end": 274546,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 274568,
+      "end": 274658,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "reddish",
+      "start": 274664,
+      "end": 274926,
+      "confidence": 0.99373,
+      "speaker": null
+    },
+    {
+      "text": "tinge",
+      "start": 274958,
+      "end": 275326,
+      "confidence": 0.72681,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 275358,
+      "end": 275506,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 275528,
+      "end": 275666,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "hair",
+      "start": 275688,
+      "end": 276014,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "came",
+      "start": 276062,
+      "end": 276274,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 276312,
+      "end": 276466,
+      "confidence": 0.99998,
+      "speaker": null
+    },
+    {
+      "text": "his",
+      "start": 276488,
+      "end": 276638,
+      "confidence": 0.89155,
+      "speaker": null
+    },
+    {
+      "text": "mother,",
+      "start": 276664,
+      "end": 277090,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "so",
+      "start": 277170,
+      "end": 277414,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "Tam",
+      "start": 277452,
+      "end": 277794,
+      "confidence": 0.98117,
+      "speaker": null
+    },
+    {
+      "text": "said.",
+      "start": 277842,
+      "end": 278534,
+      "confidence": 0.8722,
+      "speaker": null
+    },
+    {
+      "text": "She",
+      "start": 278732,
+      "end": 279094,
+      "confidence": 0.54029,
+      "speaker": null
+    },
+    {
+      "text": "had",
+      "start": 279132,
+      "end": 279286,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 279308,
+      "end": 279446,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 279468,
+      "end": 279558,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "outlander,",
+      "start": 279564,
+      "end": 280498,
+      "confidence": 0.99459,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 280674,
+      "end": 281014,
+      "confidence": 0.78,
+      "speaker": null
+    },
+    {
+      "text": "Rand",
+      "start": 281052,
+      "end": 281442,
+      "confidence": 0.61227,
+      "speaker": null
+    },
+    {
+      "text": "remembered",
+      "start": 281506,
+      "end": 281938,
+      "confidence": 0.99963,
+      "speaker": null
+    },
+    {
+      "text": "little",
+      "start": 281954,
+      "end": 282182,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 282236,
+      "end": 282358,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "her",
+      "start": 282364,
+      "end": 282582,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "aside",
+      "start": 282636,
+      "end": 282946,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 282978,
+      "end": 283126,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 283148,
+      "end": 283286,
+      "confidence": 0.78,
+      "speaker": null
+    },
+    {
+      "text": "smiling",
+      "start": 283308,
+      "end": 283746,
+      "confidence": 0.64125,
+      "speaker": null
+    },
+    {
+      "text": "face,",
+      "start": 283778,
+      "end": 284360,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "though",
+      "start": 284730,
+      "end": 285046,
+      "confidence": 0.99958,
+      "speaker": null
+    },
+    {
+      "text": "he",
+      "start": 285068,
+      "end": 285206,
+      "confidence": 0.75355,
+      "speaker": null
+    },
+    {
+      "text": "did",
+      "start": 285228,
+      "end": 285414,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "put",
+      "start": 285452,
+      "end": 285606,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "flowers",
+      "start": 285628,
+      "end": 286066,
+      "confidence": 0.95616,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 286098,
+      "end": 286246,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "her",
+      "start": 286268,
+      "end": 286406,
+      "confidence": 0.99976,
+      "speaker": null
+    },
+    {
+      "text": "grave",
+      "start": 286428,
+      "end": 286754,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "every",
+      "start": 286802,
+      "end": 287014,
+      "confidence": 0.99994,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 287052,
+      "end": 287446,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 287548,
+      "end": 287814,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Beltine",
+      "start": 287852,
+      "end": 288530,
+      "confidence": 0.67888,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 288610,
+      "end": 288806,
+      "confidence": 0.9639,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 288828,
+      "end": 288966,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "spring",
+      "start": 288988,
+      "end": 289778,
+      "confidence": 0.95338,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 289954,
+      "end": 290294,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 290332,
+      "end": 290486,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Sunday",
+      "start": 290508,
+      "end": 290882,
+      "confidence": 0.99159,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 290946,
+      "end": 291078,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 291084,
+      "end": 291206,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "summer.",
+      "start": 291228,
+      "end": 291910,
+      "confidence": 0.99975,
+      "speaker": null
+    },
+    {
+      "text": "Two",
+      "start": 292490,
+      "end": 292854,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "small",
+      "start": 292892,
+      "end": 293190,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "casks",
+      "start": 293260,
+      "end": 293666,
+      "confidence": 0.97772,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 293698,
+      "end": 293846,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "Tam's",
+      "start": 293868,
+      "end": 294178,
+      "confidence": 0.97152,
+      "speaker": null
+    },
+    {
+      "text": "apple",
+      "start": 294194,
+      "end": 294466,
+      "confidence": 0.99878,
+      "speaker": null
+    },
+    {
+      "text": "brandy",
+      "start": 294498,
+      "end": 294786,
+      "confidence": 0.6678,
+      "speaker": null
+    },
+    {
+      "text": "rested",
+      "start": 294818,
+      "end": 295138,
+      "confidence": 0.99821,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 295154,
+      "end": 295286,
+      "confidence": 0.94628,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 295308,
+      "end": 295398,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "lurching",
+      "start": 295404,
+      "end": 295746,
+      "confidence": 0.99582,
+      "speaker": null
+    },
+    {
+      "text": "cart,",
+      "start": 295778,
+      "end": 296338,
+      "confidence": 0.9975,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 296434,
+      "end": 296694,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "eight",
+      "start": 296732,
+      "end": 296934,
+      "confidence": 0.84,
+      "speaker": null
+    },
+    {
+      "text": "larger",
+      "start": 296972,
+      "end": 297346,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "barrels",
+      "start": 297378,
+      "end": 297778,
+      "confidence": 0.99546,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 297794,
+      "end": 297926,
+      "confidence": 1.0,
+      "speaker": null
+    },
+    {
+      "text": "apple",
+      "start": 297948,
+      "end": 298146,
+      "confidence": 0.99673,
+      "speaker": null
+    },
+    {
+      "text": "cider,",
+      "start": 298178,
+      "end": 298610,
+      "confidence": 0.99528,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 298690,
+      "end": 298982,
+      "confidence": 0.99999,
+      "speaker": null
+    },
+    {
+      "text": "slightly",
+      "start": 299036,
+      "end": 299426,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "hard",
+      "start": 299458,
+      "end": 299654,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "after",
+      "start": 299692,
+      "end": 299918,
+      "confidence": 0.99959,
+      "speaker": null
+    },
+    {
+      "text": "winter,",
+      "start": 299964,
+      "end": 300218,
+      "confidence": 0.43579,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 300234,
+      "end": 300366,
+      "confidence": 0.5164,
+      "speaker": null
+    },
+    {
+      "text": "curing.",
+      "start": 300388,
+      "end": 300650,
+      "confidence": 0.78375,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.944948635851185,
+  "audio_duration": 301,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "custom_spelling": null,
+  "cluster_id": null,
+  "throttled": null,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "disfluencies": false,
+  "sentiment_analysis": false,
+  "chapters": null,
+  "sentiment_analysis_results": null,
+  "entity_detection": false,
+  "entities": null,
+  "summary": null
+}

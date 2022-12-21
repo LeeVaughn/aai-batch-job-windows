@@ -10,4 +10,3 @@ def delete_files(folder):
 
 delete_files('./json')
 delete_files('./text')
-delete_files('./diarization')

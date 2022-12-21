@@ -11,7 +11,7 @@ This application allows you to submit multiple audio or video files to the [Asse
 * Update `post_json` variable on line 12 of `app.py` to include the parameters you would like to include in your requests
 * Run the `batch.py` file, which will:
   * Clear any previous info from the `urls.txt` file
-  * Upload your local files and save the file names and upload URLs to the `urls.txt file
+  * Upload your local files and save the file names and upload URLs to the `urls.txt` file
   * Empty the `json` and `text` directories
   * Iterate over the `urls.txt` file to submit 10 files at a time to the AAI API
   * Save the full JSON response and transcript text for each file when completed to the `json` and `text` directories respectively

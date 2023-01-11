@@ -12,8 +12,8 @@ def start_transcript(audio_url):
     post_json = {
         "audio_url": audio_url,
         # "dual_channel": True,
-        # "language_code": "it",
-        # "language_detection": True,
+        # "language_code": "nl",
+        "language_detection": True,
         # "punctuate": False,
         # "format_text": False,
         # "speaker_labels": True,
@@ -32,8 +32,8 @@ def start_transcript(audio_url):
         # "iab_categories": True,
         # "sentiment_analysis": True,
         # "summarization": True,
-        # "summary_model": "informative",
-        # "summary_type": "bullets"
+        # "summary_model": "conversational",
+        # "summary_type": "paragraph"
         # "entity_detection": True,
         # "auto_chapters": True,
     }
@@ -56,7 +56,7 @@ def get_transcript(id):
 def wait_for_result(id):
     response = get_transcript(id)
     while response['status'] not in ['completed', 'error']:
-        time.sleep(3)
+        time.sleep(10)
         response = get_transcript(response['id'])
     return response
 

@@ -22,11 +22,11 @@ def run_file(audio_url, file_name):
 
 # uploads files to get back an upload URL
 print('Uploading files...')
-os.system('upload.py')
+os.system('./upload.py')
 
 # deletes any files in the json or text directories
 print('Emptying folders...')
-os.system('empty_folders.py')
+os.system('./empty_folders.py')
 
 f = open('urls.txt', 'r')
 

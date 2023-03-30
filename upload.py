@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from config import auth_key, endpoint
 import os
 import requests

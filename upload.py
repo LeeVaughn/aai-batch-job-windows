@@ -38,6 +38,6 @@ clear_file = open('urls.txt', 'w')
 clear_file.close()
 
 
-with ThreadPoolExecutor(10) as executor:
+with ThreadPoolExecutor(15) as executor:
     for x in range(0, len(uploaded_files)):
         executor.submit(upload_file, uploaded_files[x])

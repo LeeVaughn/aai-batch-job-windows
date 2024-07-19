@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 from concurrent.futures import ThreadPoolExecutor
 from app import main
 
@@ -22,11 +23,11 @@ def run_file(audio_url, file_name):
 
 # uploads files to get back an upload URL
 print('Uploading files...')
-os.system('upload.py')
+subprocess.run(['python', 'upload.py'])
 
 # deletes any files in the json or text directories
 print('Emptying folders...')
-os.system('empty_folders.py')
+subprocess.run(['python', 'empty_folders.py'])
 
 f = open('urls.txt', 'r')
 
@@ -34,7 +35,7 @@ f = open('urls.txt', 'r')
 for x in f:
     lines.append(x)
 
-with ThreadPoolExecutor(10) as executor:
+with ThreadPoolExecutor(15) as executor:
     for line in lines:
         # splits file names and urls
         split_line = line.split(',')
